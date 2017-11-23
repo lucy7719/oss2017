@@ -1,4 +1,2 @@
 # oss2017
-ssssssssssssssssssssss
-airsttry
-branch1
+# kim an ji / 2017012742 /ICT
