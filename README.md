@@ -1,4 +1,2 @@
 # oss2017
-ssssssssssssssssssssss
-firsttry
-
+#kimjieun 2017012788 ICT
