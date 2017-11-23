@@ -1,4 +1,2 @@
 # oss2017
-ssssssssssssssssssssss
-airsttry
-branch1
+#kimjieun 2017012788 ICT
